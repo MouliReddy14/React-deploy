@@ -1,5 +1,5 @@
 {
-  "homePage" : "http://MouliReddy14.github.io/react-deploy",
+  "homePage": "https://MouliReddy14.github.io/React-deploy",
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
@@ -16,8 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "preload" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "preload": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
